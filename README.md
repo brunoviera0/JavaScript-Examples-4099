@@ -16,6 +16,7 @@ Why:
 ensure that user input meets specific criteria before data is processed, which helps reduce unnecessary server requests and enhances any applications performance.
 
 Examples made: **to run: node filename.js**
+
 validpassword.js: 
 ensures a strong password by checking for a minimum length of 8 characters, the presence of uppercase and lowercase letters, at least one number, one special character, and no spaces. 
 
