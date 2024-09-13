@@ -1,4 +1,4 @@
-//greeting function based on the provided greeting function
+//greeting function based on the provided greeting function thats passed as an arg
 function greeting(name, greetingFunction) {
     console.log(greetingFunction(name));
 }
