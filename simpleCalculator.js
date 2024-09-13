@@ -27,5 +27,5 @@ else {
     result = num1 / num2;
 }
 
-// Output the result of the operation to the console using a template literal to format the output
+// Output the result of the operation to the console
 console.log(`${num1} ${operator} ${num2} = ${result}`);
